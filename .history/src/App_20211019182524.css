@@ -1,0 +1,19 @@
+.linha{
+    display:flex;
+    margin-top:  40px;
+    justify-content: space-around;
+    background-color:rgb(132, 25, 204)
+
+}
+
+h1{
+
+    text-align: center;
+    
+}
+
+.app{
+    margin: auto;
+    max-width: 900px;
+    
+}
